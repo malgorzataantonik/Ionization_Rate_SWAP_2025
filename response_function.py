@@ -1,5 +1,6 @@
 # Małgorzata Anotnik, Space Research Centre PAS (CBK PAN), Bartycka 18a, 00-716 Warsaw, Poland
-# 01.07.2023
+# mantonik@cbk.waw.pl
+# 01.07.2025
 # Program to calculate energy-angle response function for rotation-average FOV
 
 import numpy as np
@@ -103,3 +104,4 @@ plt.xticks(fontsize=15)
 plt.yticks(fontsize=15)
 plt.tick_params(axis="y", labelsize=15)
 plt.show()
+
