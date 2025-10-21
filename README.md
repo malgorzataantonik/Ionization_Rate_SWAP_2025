@@ -77,11 +77,11 @@ Manuscript submitted to ApJ
 
   > ## Usage Instructions
 
-  3. Update the default days to analyze in the script (for example, days_to_analyze = '2021-01-*' to analyze all January 2021):
+  1. Update the default days to analyze in the script (for example, days_to_analyze = '2021-01-*' to analyze all January 2021):
      
      ```days_to_analyze = "YYYY-MM-DD"```
 
-  4. Update the default paths in the script:
+  2. Update the default paths in the script:
   
      for the data files:
 
@@ -95,4 +95,4 @@ Manuscript submitted to ApJ
    
      ```results_path = 'path/to/results'```
 
-  5. Run the script.
+  3. Run the script.
